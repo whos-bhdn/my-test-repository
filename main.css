@@ -2,3 +2,8 @@ h1{
     color: beige;
 }
 
+h2{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+}
