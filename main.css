@@ -7,3 +7,21 @@ h2{
     text-align: center;
     font-size: 40px;
 }
+
+body{
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+header, footer{
+    height: 8vh;
+    background-color: lightcyan;
+    text-align: center;
+}
+
+main{
+    height: 80vh;
+    background-color: lightgrey;
+    margin: 2vh;
+}
