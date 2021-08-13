@@ -12,6 +12,9 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    font-size: 40px;
+    font-family: monospace;
+    color: red;
 }
 
 header, footer{
